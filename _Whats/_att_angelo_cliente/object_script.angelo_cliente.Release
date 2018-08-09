@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\whatsclient.o
+./release\mysocket.o
+./release\connectserver.o
+./release\dados_cliente.o
+./release\dados_whatsprog.o
+./release\novaconversa.o
+./release\moc_whatsclient.o
+./release\moc_connectserver.o
+./release\moc_novaconversa.o
+);

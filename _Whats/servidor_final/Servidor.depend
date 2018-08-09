@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1530604361 source:c:\users\geral\desktop\luiz\codes\servidor\dados_servidor.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"dados_servidor.h"
+
+1530598237 c:\users\geral\desktop\luiz\codes\servidor\dados_servidor.h
+	<string>
+	<list>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1530622439 c:\users\geral\desktop\luiz\codes\servidor\dados_whatsprog.h
+	<string>
+	<stdint.h>
+	<list>
+
+1530313565 c:\users\geral\desktop\luiz\codes\servidor\mysocket.h
+	<iostream>
+	<string>
+	"dados_whatsprog.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1530622439 source:c:\users\geral\desktop\luiz\codes\servidor\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1530625564 source:c:\users\geral\desktop\luiz\codes\servidor\mensageiro1_servidor.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<algorithm>
+	<windows.h>
+	"mysocket.h"
+	"dados_whatsprog.h"
+	"dados_servidor.h"
+
+1530620853 source:c:\users\geral\desktop\luiz\codes\servidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+	"dados_whatsprog.h"
+	<sys/types.h>
+	<netdb.h>
+

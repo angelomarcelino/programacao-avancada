@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1530109142 source:c:\users\zilana\desktop\_whats\teste_seervidor\dados_servidor.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"dados_servidor.h"
+
+1530198570 c:\users\zilana\desktop\_whats\teste_seervidor\dados_servidor.h
+	<string>
+	<list>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1530208226 c:\users\zilana\desktop\_whats\teste_seervidor\dados_whatsprog.h
+	<string>
+	<stdint.h>
+	<list>
+
+1529602641 c:\users\zilana\desktop\_whats\teste_seervidor\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1529094402 source:c:\users\zilana\desktop\_whats\teste_seervidor\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1530320088 source:c:\users\zilana\desktop\_whats\teste_seervidor\mensageiro1_servidor.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<algorithm>
+	"mysocket.h"
+	"dados_servidor.h"
+	"dados_whatsprog.h"
+
+1529602642 source:c:\users\zilana\desktop\_whats\teste_seervidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+
+1530109142 source:c:\users\zilana\desktop\_whats\teste_servidor\dados_servidor.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"dados_servidor.h"
+
+1530198570 c:\users\zilana\desktop\_whats\teste_servidor\dados_servidor.h
+	<string>
+	<list>
+	"dados_whatsprog.h"
+	"mysocket.h"
+
+1530208226 c:\users\zilana\desktop\_whats\teste_servidor\dados_whatsprog.h
+	<string>
+	<stdint.h>
+	<list>
+
+1529602641 c:\users\zilana\desktop\_whats\teste_servidor\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1529094402 source:c:\users\zilana\desktop\_whats\teste_servidor\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1530320088 source:c:\users\zilana\desktop\_whats\teste_servidor\mensageiro1_servidor.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<algorithm>
+	"mysocket.h"
+	"dados_servidor.h"
+	"dados_whatsprog.h"
+
+1529602642 source:c:\users\zilana\desktop\_whats\teste_servidor\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+

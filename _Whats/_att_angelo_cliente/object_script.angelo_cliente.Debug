@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\whatsclient.o
+./debug\mysocket.o
+./debug\connectserver.o
+./debug\dados_cliente.o
+./debug\dados_whatsprog.o
+./debug\novaconversa.o
+./debug\moc_whatsclient.o
+./debug\moc_connectserver.o
+./debug\moc_novaconversa.o
+);

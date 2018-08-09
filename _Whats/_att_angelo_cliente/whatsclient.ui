@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>WhatsClient</class>
+ <widget class="QMainWindow" name="WhatsClient">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Cliente WhatsProg</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QLabel" name="msgLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>530</y>
+      <width>59</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MENSAGEM:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="msgEdit">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>530</y>
+      <width>640</width>
+      <height>20</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="enviarButton">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>527</y>
+      <width>70</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>ENVIAR</string>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="conversasTable">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>240</width>
+      <height>510</height>
+     </rect>
+    </property>
+    <property name="horizontalScrollBarPolicy">
+     <enum>Qt::ScrollBarAlwaysOff</enum>
+    </property>
+    <property name="sizeAdjustPolicy">
+     <enum>QAbstractScrollArea::AdjustToContents</enum>
+    </property>
+    <property name="editTriggers">
+     <set>QAbstractItemView::NoEditTriggers</set>
+    </property>
+    <property name="tabKeyNavigation">
+     <bool>false</bool>
+    </property>
+    <property name="alternatingRowColors">
+     <bool>true</bool>
+    </property>
+    <property name="selectionMode">
+     <enum>QAbstractItemView::NoSelection</enum>
+    </property>
+    <property name="selectionBehavior">
+     <enum>QAbstractItemView::SelectRows</enum>
+    </property>
+    <property name="columnCount">
+     <number>2</number>
+    </property>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>50</number>
+    </attribute>
+    <attribute name="horizontalHeaderMinimumSectionSize">
+     <number>50</number>
+    </attribute>
+    <attribute name="horizontalHeaderStretchLastSection">
+     <bool>true</bool>
+    </attribute>
+    <attribute name="verticalHeaderVisible">
+     <bool>false</bool>
+    </attribute>
+    <column/>
+    <column/>
+   </widget>
+   <widget class="QTableWidget" name="msgsTable">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>10</y>
+      <width>530</width>
+      <height>510</height>
+     </rect>
+    </property>
+    <property name="horizontalScrollBarPolicy">
+     <enum>Qt::ScrollBarAlwaysOff</enum>
+    </property>
+    <property name="sizeAdjustPolicy">
+     <enum>QAbstractScrollArea::AdjustToContents</enum>
+    </property>
+    <property name="editTriggers">
+     <set>QAbstractItemView::NoEditTriggers</set>
+    </property>
+    <property name="tabKeyNavigation">
+     <bool>false</bool>
+    </property>
+    <property name="selectionMode">
+     <enum>QAbstractItemView::NoSelection</enum>
+    </property>
+    <property name="selectionBehavior">
+     <enum>QAbstractItemView::SelectRows</enum>
+    </property>
+    <property name="columnCount">
+     <number>2</number>
+    </property>
+    <attribute name="horizontalHeaderCascadingSectionResizes">
+     <bool>false</bool>
+    </attribute>
+    <attribute name="horizontalHeaderMinimumSectionSize">
+     <number>50</number>
+    </attribute>
+    <attribute name="horizontalHeaderStretchLastSection">
+     <bool>true</bool>
+    </attribute>
+    <attribute name="verticalHeaderVisible">
+     <bool>false</bool>
+    </attribute>
+    <column/>
+    <column/>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuConex_o">
+    <property name="title">
+     <string>Conexão</string>
+    </property>
+    <addaction name="actionConectar"/>
+    <addaction name="actionDesconectar"/>
+    <addaction name="separator"/>
+    <addaction name="actionSair"/>
+   </widget>
+   <widget class="QMenu" name="menuConversas">
+    <property name="title">
+     <string>Conversas</string>
+    </property>
+    <addaction name="actionNovaConv"/>
+   </widget>
+   <widget class="QMenu" name="menuMensagens">
+    <property name="title">
+     <string>Mensagens</string>
+    </property>
+    <addaction name="actionApagar"/>
+   </widget>
+   <addaction name="menuConex_o"/>
+   <addaction name="menuConversas"/>
+   <addaction name="menuMensagens"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionConectar">
+   <property name="text">
+    <string>Conectar...</string>
+   </property>
+  </action>
+  <action name="actionDesconectar">
+   <property name="text">
+    <string>Desconectar</string>
+   </property>
+  </action>
+  <action name="actionSair">
+   <property name="text">
+    <string>Sair</string>
+   </property>
+  </action>
+  <action name="actionNovaConv">
+   <property name="text">
+    <string>Nova Conversa...</string>
+   </property>
+  </action>
+  <action name="actionApagar">
+   <property name="text">
+    <string>Apagar</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
