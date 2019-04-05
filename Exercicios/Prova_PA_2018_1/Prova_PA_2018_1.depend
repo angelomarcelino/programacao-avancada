@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521580617 source:c:\users\c6-prof\downloads\prova_pa_2018_1\main.cpp
+	<iostream>
+	<fstream>
+	"imagem.h"
+
+1521580617 source:c:\users\c6-prof\downloads\prova_pa_2018_1\imagem.cpp
+	<iostream>
+	<fstream>
+	"imagem.h"
+
+1521580670 c:\users\c6-prof\downloads\prova_pa_2018_1\imagem.h
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522952390 source:c:\users\user28\downloads\_prova-2\p1_2_angelo\loja_heranca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1522949655 c:\users\user28\downloads\_prova-2\p1_2_angelo\loja_heranca.h
+	<iostream>
+	<string>
+
+1522950930 source:c:\users\user28\downloads\_prova-2\p1_2_angelo\loja_heranca-main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+

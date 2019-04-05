@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\user22\downloads\prova2017_1\main.cpp
+	<iostream>
+
+1521568194 source:c:\users\user28\downloads\prova2017_1\prova2017_1\main.cpp
+	<iostream>
+	<string>
+	"voo.h"
+	"lista_voo.h"
+
+1521564623 source:c:\users\user28\downloads\prova2017_1\prova2017_1\voo.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"voo.h"
+
+1521564794 c:\users\user28\downloads\prova2017_1\prova2017_1\voo.h
+	<iostream>
+	<string>
+
+1521568194 c:\users\user28\downloads\prova2017_1\prova2017_1\lista_voo.h
+	<iostream>
+	<string>
+	"voo.h"
+
+1521568194 source:c:\users\user28\downloads\prova2017_1\prova2017_1\lista_voo.cpp
+	<iostream>
+	<string>
+	"voo.h"
+	"lista_voo.h"
+

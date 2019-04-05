@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1529605414 source:c:\users\user23\downloads\exemplo_console\mensageiro1_servidor.cpp
+	<iostream>
+	<string.h>
+	<list>
+	<algorithm>
+	"mysocket.h"
+	"mensageiro.h"
+
+1529603172 c:\users\user23\downloads\exemplo_console\mysocket.h
+	<iostream>
+	<string>
+	<stdint.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1529605414 c:\users\user23\downloads\exemplo_console\mensageiro.h
+	<stdint.h>
+
+1528999670 source:c:\users\user23\downloads\exemplo_console\mysocket.cpp
+	<iostream>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+

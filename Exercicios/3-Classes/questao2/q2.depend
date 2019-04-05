@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1520884148 source:c:\users\user28\downloads\questao2\main.cpp
+	<iostream>
+	"racionaismc.h"
+
+1520884165 source:c:\users\user28\downloads\questao2\racionaismc.cpp
+	<iostream>
+	<cmath>
+	"racionaismc.h"
+
+1520883881 c:\users\user28\downloads\questao2\racionaismc.h
+	<iostream>
+
+1520947490 source:c:\users\user16\downloads\questao2\main.cpp
+	<iostream>
+	"racionaismc.h"
+
+1520947429 c:\users\user16\downloads\questao2\racionaismc.h
+	<iostream>
+
+1520947311 source:c:\users\user16\downloads\questao2\racionaismc.cpp
+	<iostream>
+	<cmath>
+	"racionaismc.h"
+
+1521043935 source:c:\users\user19\downloads\questao2\main.cpp
+	<iostream>
+	"racionaismc.h"
+
+1521043898 c:\users\user19\downloads\questao2\racionaismc.h
+	<iostream>
+
+1521044344 source:c:\users\user19\downloads\questao2\racionaismc.cpp
+	<iostream>
+	<cmath>
+	"racionaismc.h"
+

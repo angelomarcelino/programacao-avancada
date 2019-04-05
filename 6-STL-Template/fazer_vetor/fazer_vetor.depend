@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523556489 source:c:\users\user33\downloads\fazer_vetor\main.cpp
+	<iostream>
+	"vetor_template.h"
+
+1523556107 source:c:\users\user33\downloads\fazer_vetor\vetor_template.cpp
+	<iostream>
+	"vetor_template.h"
+
+1523556098 c:\users\user33\downloads\fazer_vetor\vetor_template.h
+	<iostream>
+

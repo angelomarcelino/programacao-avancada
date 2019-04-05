@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526490960 source:c:\users\c6-prof\downloads\loja_polim_stl-incompleto\loja_polim_stl-main.cpp
+	<iostream>
+	<limits>
+	<string>
+	"loja_polim_STL.h"
+
+1526490966 c:\users\c6-prof\downloads\loja_polim_stl-incompleto\loja_polim_stl.h
+	<iostream>
+	<string>
+	<vector>
+
+1526588037 source:c:\users\c6-prof\downloads\loja_polim_stl-incompleto\loja_polim_stl.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<limits>
+	"loja_polim_STL.h"
+

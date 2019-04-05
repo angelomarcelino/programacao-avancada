@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520457989 source:c:\users\c6-prof\downloads\complexo\complexo_classe.cpp
+	<iostream>
+	<cmath>
+	"complex.h"
+
+1520457578 c:\users\c6-prof\downloads\complexo\complex.h
+	<iostream>
+
+1520457440 source:c:\users\c6-prof\downloads\complexo\complex.cpp
+	<iostream>
+	<cmath>
+	"complex.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1520792234 source:/home/lab15dp/Downloads/drive-download-20180312T140128Z-001/main-teste.cpp
+	<iostream>
+	"ponto.h"
+	"retangulo.h"
+
+1520864442 /home/lab15dp/Downloads/drive-download-20180312T140128Z-001/ponto.h
+	<iostream>
+
+1520864470 /home/lab15dp/Downloads/drive-download-20180312T140128Z-001/retangulo.h
+	<iostream>
+	"ponto.h"
+
+1520864111 source:/home/lab15dp/Downloads/drive-download-20180312T140128Z-001/ponto.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+
+1520864477 source:/home/lab15dp/Downloads/drive-download-20180312T140128Z-001/retangulo.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+	"retangulo.h"
+	<cmath>
+

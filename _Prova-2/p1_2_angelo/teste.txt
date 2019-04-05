@@ -1,0 +1,4 @@
+LISTALIVRO 1
+L: "Harry Potter";$12;"J.K. Rowlling"
+LISTACD 0
+LISTADVD 0

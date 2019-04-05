@@ -1,0 +1,7 @@
+LISTALIVRO 1
+L: "O Pequeno Principe";$38;"Saint Exupery"
+LISTACD 2
+C: "Bebadosamba";$11.36;15
+C: "Rosa e Carvao";$21;17
+LISTADVD 1
+D: "Queen Live";$23.98;127

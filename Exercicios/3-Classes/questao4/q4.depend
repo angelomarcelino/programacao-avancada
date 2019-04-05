@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\zilana\google drive\_my_stuff\_ufrn\_pa\exercicios\calsses\questao4\main.cpp
+	<iostream>
+
+1521416822 source:c:\users\zilana\google drive\_my_stuff\_ufrn\_pa\exercicios\calsses\questao4\vetor.cpp
+	<iostream>
+	<cmath>
+	"vetor.h"
+
+1521416463 c:\users\zilana\google drive\_my_stuff\_ufrn\_pa\exercicios\calsses\questao4\vetor.h
+	<iostream>
+

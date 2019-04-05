@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1506559599 source:/media/nicholas/Nicholas/Documentos/loja_heranca/loja_heranca-main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1506565469 /media/nicholas/Nicholas/Documentos/loja_heranca/loja_heranca.h
+	<iostream>
+	<string>
+
+1506594603 source:/media/nicholas/Nicholas/Documentos/loja_heranca/loja_heranca.cpp
+	"loja_heranca.h"
+	<iostream>
+	<iostream>
+	<stdint.h>
+	<fstream>
+	<string>
+	<limits>
+	<iomanip>
+
+1506559599 source:/media/nicholas/Nicholas/Documentos/Nova pasta/loja_heranca-main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1506565469 /media/nicholas/Nicholas/Documentos/Nova pasta/loja_heranca.h
+	<iostream>
+	<string>
+
+1506594603 source:/media/nicholas/Nicholas/Documentos/Nova pasta/loja_heranca.cpp
+	"loja_heranca.h"
+	<iostream>
+	<iostream>
+	<stdint.h>
+	<fstream>
+	<string>
+	<limits>
+	<iomanip>
+
+1506559599 source:/media/jaspion/Nicholas/Documentos/loja_heranca/loja_heranca-main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1506565469 /media/jaspion/Nicholas/Documentos/loja_heranca/loja_heranca.h
+	<iostream>
+	<string>
+
+1506788110 source:/media/jaspion/Nicholas/Documentos/loja_heranca/loja_heranca.cpp
+	"loja_heranca.h"
+	<iostream>
+	<iostream>
+	<stdint.h>
+	<fstream>
+	<string>
+	<limits>
+	<iomanip>
+
